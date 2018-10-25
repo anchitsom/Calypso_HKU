@@ -1,6 +1,6 @@
 # Calypso_HKU
 
-Calypso is a project collaboration platform that helps students promote and discover student projects/startups on campus. 
+Calypso is a project collaboration platform that helps students promote and discover student projects on campus. 
 
 Visit http://www.calypsoprojects.com
 
